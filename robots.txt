@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /espace-etudiant.html
+
+Sitemap: https://www.m2epolytech.com/sitemap.xml
